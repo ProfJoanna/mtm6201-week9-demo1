@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #fd0d7d;
+    --bs-primary-rgb: 253, 13, 125;
+    --bs-btn-bg: #fd0d7d;
+}
+
+h1 {
+    color: red;
+}
+
+.btn-primary {
+    /* --bs-btn-bg: var(--bs-primary); */
+    background: var(--primary-color);
+}
